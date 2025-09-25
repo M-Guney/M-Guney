@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Muhammed Süleyman Güney]
+# Hi there 👋, I'm Muhammed Süleyman Güney
 
 ## 🚀 About Me
 - 🎮 I am a Backend developer passionate about creative mechanics.  
@@ -29,7 +29,6 @@
 ---
 
 ## 💡 HackerRank
-![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?&style=for-the-badge&logo=HackerRank&logoColor=white)
 
 [Check out my HackerRank profile](https://www.hackerrank.com/profile/muhammedyazilim)
 
