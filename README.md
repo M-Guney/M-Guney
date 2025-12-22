@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Muhammed Süleyman Güney
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00AEEF&center=true&vCenter=true&lines=Hi+I'm+Muhammed Güney!;Management+Information+Specialist;Backend+Developer;Game+Developer;Welcome+to+my+GitHub!" />
+</p>
 
 ## 🚀 About Me
 - 🎮 I am a Backend developer passionate about creative mechanics.  
